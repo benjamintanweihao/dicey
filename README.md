@@ -1,4 +1,6 @@
-# DiCEy - Umbrella Project containing DiCE and DiCE interface
+# DiCEy 
+
+## An Umbrella Project containing DiCE and the DiCE Interface
 
 This is a more or less faithful port of Andrey Paramonov's [blog post](http://ndpar.blogspot.sg/2010/01/distributed-cache-in-erlang.html) on Distributed cache in Erlang to Elixir.
 
